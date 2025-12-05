@@ -1,7 +1,7 @@
 Frost
 ------------
 
-Frost is my free 3D software and open source developed with Java.
+Frost is my free 3D software and open source developed with FreePascal.
 
 It will include as features : the 3D pipeline-modeling, rigging, animation, simulation and rendering.
 
@@ -9,7 +9,7 @@ It will include as features : the 3D pipeline-modeling, rigging, animation, simu
 Development
 ------------
 
-It will write in Java with Vulkan if possible.
+It will write in FreePascal with Vulkan if possible.
 
 
 Author
@@ -22,10 +22,3 @@ License
 -------------
 
 Frost as a whole is licensed under the GNU General Public License, Version 3.
-
-
-Thanks
--------------
-
-To Adoptium ([Adoptium link](https://adoptium.net/fr)) for the wonderful free Java (Temurin) that let me to create a powerful program in 3D :)
-
